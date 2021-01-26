@@ -1,4 +1,4 @@
-I have contributed to many projects on GitHub (more than 9400 contributions). I am interested in D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
+I have contributed to many projects on GitHub (more than 9400 contributions). The programming languages I usually use are D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
 
 ### Atom 
 I am the head owner of @atom-community organization, in which we bring an integrated development environment to Atom. I have made more than 600 pull requests and issues for the Atom projects. Some of these projects are:
