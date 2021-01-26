@@ -5,11 +5,12 @@ I am the head owner of [@atom-community](https://github.com/atom-community) orga
 - [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
 - [atom-ide-base](https://github.com/atom-community/atom-ide-base)
 - [atom-minimap](https://github.com/atom-minimap/minimap)
+- [linter](https://github.com/steelbrain/linter) and [linter-ui-default](https://github.com/steelbrain/linter-ui-default)
 - [atom-select-list](https://github.com/atom/atom-select-list)
 - [zadeh](https://github.com/atom-community/zadeh)
 - [superstring](https://github.com/aminya/superstring)
 - [atom-ide-javascript](https://github.com/atom-community/atom-ide-javascript)
-- ... (check the @atom-community, @atom, @atom-minimap for more projects)
+- ... (check the [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
 
 ![atom prs and issues](https://user-images.githubusercontent.com/16418197/105793364-9b265300-5f4e-11eb-9afd-21146e4a3674.png)
 
