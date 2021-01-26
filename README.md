@@ -24,6 +24,6 @@ I have been involved with many projects in the Julia ecosystem. I have made near
 - [AcuteBenchmark.jl](https://github.com/aminya/AcuteBenchmark.jl)
 - [TypeTransform.jl](https://github.com/aminya/TypeTransform.jl)
 - [IntelVectorMath.jl](https://github.com/JuliaMath/IntelVectorMath.jl)
-- ... (check my profile for more projects)
+- ... (check out my profile for more projects)
 
 ![julia prs and issues](https://user-images.githubusercontent.com/16418197/105793321-86e25600-5f4e-11eb-864c-39ff31cee964.png)
