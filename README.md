@@ -1,7 +1,7 @@
 I have contributed to many projects on GitHub (more than 9400 contributions). The programming languages I usually use are D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
 
 ### Atom 
-I am the head owner of @atom-community organization, in which we bring an integrated development environment to Atom. I have made more than 600 pull requests and issues for the Atom projects. Some of these projects are:
+I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 600 pull requests and issues for the Atom projects. Some of these projects are:
 - [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
 - [atom-ide-base](https://github.com/atom-community/atom-ide-base)
 - [atom-minimap](https://github.com/atom-minimap/minimap)
