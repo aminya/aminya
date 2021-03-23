@@ -1,7 +1,7 @@
-I have contributed to many projects on GitHub (more than 9400 contributions). The programming languages I usually use are D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
+I have contributed to many projects on GitHub (more than 11400 contributions). The programming languages I usually use are D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
 
 ### Atom 
-I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 600 pull requests and issues for the Atom projects. Some of these projects are:
+I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 700 pull requests and issues for the Atom projects. Some of these projects are:
 - [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
 - [atom-ide-base](https://github.com/atom-community/atom-ide-base), which includes [atom-ide-datatip](https://github.com/atom-community/atom-ide-datatip), [atom-ide-outline](https://github.com/atom-community/atom-ide-outline), [atom-ide-signature-help](https://github.com/atom-community/atom-ide-signature-help), etc.
 - [atom-minimap](https://github.com/atom-minimap/minimap)
@@ -12,7 +12,7 @@ I am the head owner of [@atom-community](https://github.com/atom-community) orga
 - [atom-ide-javascript](https://github.com/atom-community/atom-ide-javascript)
 - ... (check the [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
 
-![atom prs and issues](https://user-images.githubusercontent.com/16418197/105793364-9b265300-5f4e-11eb-9afd-21146e4a3674.png)
+![atom prs and issues](https://user-images.githubusercontent.com/16418197/112168712-89180800-8bbf-11eb-99c7-afa70e53c063.png)
 
 ### Julia
 I have been involved with many projects in the Julia ecosystem. I have made near 600 pull requests and issues for the Julia projects.
