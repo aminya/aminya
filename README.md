@@ -1,6 +1,6 @@
-I have contributed to many projects on GitHub (more than 11400 contributions). The programming languages I usually use are D, C++, Julia, TypeScript, JavaScript, AssemblyScript, and more!
+I have contributed to many projects on GitHub (more than 12000 contributions). The programming languages I usually use are C++, D, Rust, Julia, TypeScript, JavaScript, AssemblyScript, and more!
 
-[My CV here](https://github.com/aminya/aminya/blob/main/Main_CV.pdf)
+[My CV here](https://github.com/aminya/aminya/blob/main/Amin-Yahyaabadi-CV.pdf)
 
 ### Atom 
 I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 700 pull requests and issues for the Atom projects. Some of these projects are:
