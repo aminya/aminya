@@ -1,7 +1,7 @@
 I have made more than 17,000 contributions on GitHub. You can take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
 
 ### Atom 
-I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 700 pull requests and issues for the Atom projects. Some of these projects are:
+I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 850 pull requests and issues for the Atom projects. Some of these projects are:
 - [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
 - [zadeh](https://github.com/atom-community/zadeh)
 - [atom-ide-base](https://github.com/atom-community/atom-ide-base), which includes [atom-ide-datatip](https://github.com/atom-community/atom-ide-datatip), [atom-ide-outline](https://github.com/atom-community/atom-ide-outline), [atom-ide-signature-help](https://github.com/atom-community/atom-ide-signature-help), etc.
