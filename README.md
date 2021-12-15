@@ -10,7 +10,7 @@ I am the head owner of [@atom-community](https://github.com/atom-community) orga
 - [atom-select-list](https://github.com/atom/atom-select-list)
 - [superstring](https://github.com/aminya/superstring)
 - [atom-ide-javascript](https://github.com/atom-community/atom-ide-javascript)
-- ... (check the [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
+- ... (check out these organizations [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
 
 ### Julia
 I have been involved with many projects in the Julia ecosystem. I have made near 600 pull requests and issues for the Julia projects.
