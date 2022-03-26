@@ -1,5 +1,15 @@
 I have made more than 17,000 contributions on GitHub. You can take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
 
+### C++
+
+I have contributed to several C++ projects that try to improve the C++ ecosystem:
+
+- [project_options](https://github.com/aminya/project_options)
+- [setup-cpp](https://github.com/aminya/setup-cpp)
+- [cpp_vcpkg_project](https://github.com/aminya/cpp_vcpkg_project)
+- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
+
+
 ### Atom 
 I am the head owner of [@atom-community](https://github.com/atom-community) organization, in which we bring an integrated development environment to Atom. I have made more than 850 pull requests and issues for the Atom projects. Some of these projects are:
 - [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
