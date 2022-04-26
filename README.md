@@ -1,8 +1,8 @@
-I have made more than 17,000 contributions on GitHub. You can take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
+Made more than 17,000 contributions on GitHub. Take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
 
 ### C++
 
-I have contributed to several C++ projects that try to improve the C++ ecosystem:
+Contributed to several C++ projects that try to improve the C++ ecosystem:
 
 - [project_options](https://github.com/aminya/project_options)
 - [setup-cpp](https://github.com/aminya/setup-cpp)
@@ -23,7 +23,7 @@ I am the head owner of [@atom-community](https://github.com/atom-community) orga
 - ... (check out these organizations [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
 
 ### Julia
-I have been involved with many projects in the Julia ecosystem. I have made near 600 pull requests and issues for the Julia projects.
+Involved with many projects in the Julia ecosystem. I have made near 600 pull requests and issues for the Julia projects.
 - [AcuteML.jl](https://github.com/aminya/AcuteML.jl)
 - [JuliaMusic/MusicXML.jl](https://github.com/JuliaMusic/MusicXML.jl)
 - [CompileBot.jl](https://github.com/aminya/CompileBot.jl) and [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl)
