@@ -1,4 +1,4 @@
-Made more than 17,000 contributions on GitHub. Take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
+Made more than 20,000 contributions on GitHub. Take a look at my [CV here](https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf). 
 
 ### C++
 
