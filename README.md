@@ -2,7 +2,7 @@ Made more than 20,000 contributions on GitHub. Take a look at my [CV here](https
 
 ### C++
 
-Contributed to several C++ projects that try to improve the C++ ecosystem:
+Authored/Contributed to several C++ projects that try to improve the C++ ecosystem:
 
 - [project_options](https://github.com/aminya/project_options)
 - [setup-cpp](https://github.com/aminya/setup-cpp)
