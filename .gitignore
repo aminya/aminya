@@ -1,0 +1,4 @@
+.parcel-cache/
+astro-dist/
+dist/
+node_modules/
