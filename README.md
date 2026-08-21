@@ -1,38 +1,33 @@
-Made more than 30,000 contributions on GitHub. Take a look at my [CV here](https://aminya.github.io/cv/index.html). 
+# Amin Ya
 
-### C++
+Lead engineer and founder building AI, robotics, real-time software, audio, and aerospace systems.
 
-Authored and contributed to several C++ projects that try to improve the C++ ecosystem:
+Take a look at my [website](https://aminya.github.io) and [CV](https://aminya.github.io/cv/index.html)
+here.
 
-- [project_options](https://github.com/aminya/project_options)
-- [setup-cpp](https://github.com/aminya/setup-cpp)
-- [cpp_vcpkg_project](https://github.com/aminya/cpp_vcpkg_project)
-- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
+## Experience
 
+- **Abacus AI - Lead Software Engineer:** Building Office Abacus AI for productivity workflows and
+  Abacus AI Desktop, an agentic coding editor and CLI. Ranked in the top three on TerminalBench.
+- **AgentEng - Founding Lead AI Engineer:** Building SPARC Copilot, an AI agent for PSCAD, with power-system
+  optimization and a Rust/Tauri, Bun/Elysia, and LangGraph stack.
+- **LaminAudio - Founder and Technical Lead:** Building C++/JUCE real-time audio plugins and a Rust/Actix platform for
+  authentication, devices, purchases, payments, and licensing.
+- **Sanctuary AI - Robotics Control Engineer:** Built Robodrake, Phoenix's whole-body controller, along with Drake-based
+  dynamics, real-time hand-control software, and digital-robot deployment tooling.
+- **Snowdrop Quantum - Software Engineer:** Built Tangled AI-Quantum, a game exploring practical applications of quantum
+  computing.
+- **Post Media - Senior Software Engineer:** Built the Post.news web and Android applications with SolidStart, SolidJS,
+  Capacitor, and Ionic, with a focus on product performance.
+- **Aerospace and controls research:** Led flight software and onboard-computer work for the ManitobaSat satellite;
+  built drone control and verification systems; developed space-object detection algorithms; and researched intelligent
+  vibration control using Particle Swarm Optimization and FEA/FDA modeling.
 
-### Atom 
+## Open-source
 
-I have been the head of [@atom-community](https://github.com/atom-community) organization, where we bring an integrated development environment to Atom. I have made more than 850 pull requests and issues for the Atom projects. Some of these projects are:
-- [atom](https://github.com/atom-community/atom) and [atom-community/atom](https://github.com/atom-community/atom)
-- [zadeh](https://github.com/atom-community/zadeh)
-- [atom-ide-base](https://github.com/atom-community/atom-ide-base), which includes [atom-ide-datatip](https://github.com/atom-community/atom-ide-datatip), [atom-ide-outline](https://github.com/atom-community/atom-ide-outline), [atom-ide-signature-help](https://github.com/atom-community/atom-ide-signature-help), etc.
-- [atom-minimap](https://github.com/atom-minimap/minimap)
-- [linter](https://github.com/steelbrain/linter) and [linter-ui-default](https://github.com/steelbrain/linter-ui-default)
-- [atom-select-list](https://github.com/atom/atom-select-list)
-- [superstring](https://github.com/aminya/superstring)
-- [atom-ide-javascript](https://github.com/atom-community/atom-ide-javascript)
-- ... (check out these organizations [@atom-community](https://github.com/atom-community), [@atom](https://github.com/atom), [@atom-minimap](https://github.com/atom-minimap) for more projects)
+Made more than 30,000 GitHub contributions; led projects across different ecosystems:
 
-### Julia
-
-I was involved with many projects in the Julia ecosystem. I have made nearly 600 pull requests and issues for the Julia projects.
-- [AcuteML.jl](https://github.com/aminya/AcuteML.jl)
-- [JuliaMusic/MusicXML.jl](https://github.com/JuliaMusic/MusicXML.jl)
-- [CompileBot.jl](https://github.com/aminya/CompileBot.jl) and [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl)
-- [JuliaMatlan/MatLang](https://github.com/juliamatlab/MatLang)
-- [VarStructs.jl](https://github.com/aminya/VarStructs.jl)
-- [AcuteBenchmark.jl](https://github.com/aminya/AcuteBenchmark.jl)
-- [TypeTransform.jl](https://github.com/aminya/TypeTransform.jl)
-- [IntelVectorMath.jl](https://github.com/JuliaMath/IntelVectorMath.jl)
-- [juno-plus](https://github.com/aminya/juno-plus)
-- ... (check out my profile for more projects)
+- [atom](https://github.com/atom-community/atom), [atom-community/atom](https://github.com/atom-community/atom), [Zadeh](https://github.com/atom-community/zadeh), and other Atom proejcts
+- [project_options](https://github.com/aminya/project_options), [setup-cpp](https://github.com/aminya/setup-cpp), and other C++ projects
+- [zeromq.js](https://github.com/zeromq/zeromq.js), [cmake-ts](https://github.com/EmbeddedEnterprises/cmake-ts/) and other TypeScript projects
+- [AcuteML.jl](https://github.com/aminya/AcuteML.jl), [JuliaMusic](https://github.com/JuliaMusic/MusicXML.jl), and othet Julia packages
